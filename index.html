@@ -1,0 +1,505 @@
+
+Warning: Undefined array key "HTTP_HOST" in /Applications/XAMPP/xamppfiles/htdocs/src/modules/config.php on line 3
+
+Warning: Cannot modify header information - headers already sent by (output started at /Applications/XAMPP/xamppfiles/htdocs/src/modules/config.php:3) in /Applications/XAMPP/xamppfiles/htdocs/src/header.php on line 86
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>PvPoke | Open-Source Battle Simulator, Rankings &amp; Team Building for Pokemon GO PvP</title>
+<meta name="description" content="Looking for an edge in Pokemon GO Trainer Battles? Become a master with our open-source Pokemon battle simulator, explore the top Pokemon rankings, and get your team rated for PvP battles." />
+
+
+<!--OG tags for social-->
+<meta property="og:title" content="PvPoke | Open-Source Battle Simulator, Rankings &amp; Team Building for Pokemon GO PvP" />
+<meta property="og:description" content="Looking for an edge in Pokemon GO Trainer Battles? Become a master with our open-source Pokemon battle simulator, explore the top Pokemon rankings, and get your team rated for PvP battles." />
+<meta property="og:image" content="https://pvpoke.com/img/og.jpg" />
+
+<meta name="apple-mobile-web-app-capable">
+<meta name="mobile-web-app-capable">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<link rel="manifest" href="/src/data/manifest.json?v=3">
+
+<!--
+
+Warning: Undefined array key "REQUEST_URI" in /Applications/XAMPP/xamppfiles/htdocs/src/header.php on line 129
+
+Deprecated: strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /Applications/XAMPP/xamppfiles/htdocs/src/header.php on line 129
+
+Warning: Undefined array key "REQUEST_URI" in /Applications/XAMPP/xamppfiles/htdocs/src/header.php on line 131
+
+Deprecated: strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /Applications/XAMPP/xamppfiles/htdocs/src/header.php on line 131
+
+Warning: Undefined array key "REQUEST_URI" in /Applications/XAMPP/xamppfiles/htdocs/src/header.php on line 133
+
+Deprecated: strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /Applications/XAMPP/xamppfiles/htdocs/src/header.php on line 133
+
+Warning: Undefined array key "REQUEST_URI" in /Applications/XAMPP/xamppfiles/htdocs/src/header.php on line 135
+
+Deprecated: strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /Applications/XAMPP/xamppfiles/htdocs/src/header.php on line 135
+	<link id="favicon" rel="icon" href="/src/img/themes/sunflower/favicon.png">
+-->
+
+<link id="favicon" rel="icon" href="/src/img/themes/sunflower/favicon.png">
+
+<link rel="stylesheet" type="text/css" href="/src/css/style.css?v=194">
+
+
+
+Warning: Undefined array key "REQUEST_URI" in /Applications/XAMPP/xamppfiles/htdocs/src/header.php on line 150
+
+Deprecated: strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /Applications/XAMPP/xamppfiles/htdocs/src/header.php on line 150
+
+
+<script src="/src/js/libs/jquery-3.3.1.min.js"></script>
+<script src="/src/js/interface/RSSReader.js?v=260.968.159"></script>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id="></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', '');
+
+  var gaId = '';
+</script>
+
+<script>
+	// Host for link reference
+
+	var host = "http:///src/";
+	var webRoot = "/src/";
+	var siteVersion = "260.968.159";
+
+	
+		var settings = {
+			defaultIVs: "gamemaster",
+			animateTimeline: 1,
+			matrixDirection: "row",
+			gamemaster: "gamemaster",
+			pokeboxId: 0,
+			pokeboxLastDateTime: 0,
+			xls: true,
+			rankingDetails: "one-page",
+			hardMovesetLinks: 0,
+			colorblindMode: 0,
+			performanceMode: 0
+		};
+
+	
+	// If $_GET request exists, output as JSON into Javascript
+
+	var get = false;</script>
+
+	
+
+</head>
+
+<body >
+
+	
+	<header>
+		<div class="header-wrap">
+							<a href="/src/"><img src="/src/img/themes/sunflower/header.png" title="PvPoke.com" /></a>
+			
+			<div class="hamburger mobile">
+				<!--Because I'm too lazy to make a graphic-->
+				<div class="meat"></div>
+				<div class="meat"></div>
+				<div class="meat"></div>
+			</div>
+			<div class="menu">
+				<div class="parent-menu">
+					<a class="icon-battle 
+Warning: Undefined array key "REQUEST_URI" in /Applications/XAMPP/xamppfiles/htdocs/src/header.php on line 252
+
+Deprecated: strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /Applications/XAMPP/xamppfiles/htdocs/src/header.php on line 252
+" href="/src/battle/">
+						Battle<span></span>
+					</a>
+					<div class="submenu">
+						<div class="submenu-wrap">
+							<a class="nav-great" href="/src/battle/">Single Battle</a>
+							<a class="nav-ultra" href="/src/battle/multi/">Multi Battle</a>
+							<a class="nav-master" href="/src/battle/matrix/">Matrix Battle</a>
+						</div>
+					</div>
+				</div>
+				<div class="parent-menu">
+					<a class="icon-rankings 
+Warning: Undefined array key "REQUEST_URI" in /Applications/XAMPP/xamppfiles/htdocs/src/header.php on line 264
+
+Deprecated: strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /Applications/XAMPP/xamppfiles/htdocs/src/header.php on line 264
+" href="/src/rankings/">
+						Rankings <span></span>
+					</a>
+					<div class="submenu">
+						<div class="submenu-wrap">
+							<a class="nav-great" href="/src/rankings/all/1500/overall/">Great League</a>
+							<a class="nav-ultra" href="/src/rankings/all/2500/overall/">Ultra League</a>
+							<a class="nav-master" href="/src/rankings/all/10000/overall/">Master League</a>
+							<a href="/src/custom-rankings/">Custom Rankings</a>
+						</div>
+					</div>
+				</div>
+				<a class="icon-team 
+Warning: Undefined array key "REQUEST_URI" in /Applications/XAMPP/xamppfiles/htdocs/src/header.php on line 276
+
+Deprecated: strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /Applications/XAMPP/xamppfiles/htdocs/src/header.php on line 276
+" href="/src/team-builder/">Team Builder</a>
+				<div class="parent-menu">
+					<a class="icon-train 
+Warning: Undefined array key "REQUEST_URI" in /Applications/XAMPP/xamppfiles/htdocs/src/header.php on line 278
+
+Deprecated: strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /Applications/XAMPP/xamppfiles/htdocs/src/header.php on line 278
+" href="/src/train/">
+						Train <span></span>
+					</a>
+					<div class="submenu">
+						<div class="submenu-wrap">
+							<a href="/src/train/analysis/">Top Performers</a>
+						</div>
+					</div>
+				</div>
+				<div class="parent-menu more-parent-menu">
+					<a class="more desktop" href="#">
+						<div class="hamburger desktop">
+							<!--Because I'm too lazy to make a graphic-->
+							<div class="meat"></div>
+							<div class="meat"></div>
+							<div class="meat"></div>
+						</div>
+					</a>
+					<div class="submenu">
+						<div class="submenu-wrap">
+							<a href="/src/moves/">Moves</a>
+							<a href="/src/articles/">Articles</a>
+							<a class="icon-heart" href="/src/contribute/">Contribute</a>
+							<a href="/src/settings/">Settings</a>
+							<a class="twitter" href="https://twitter.com/pvpoke" target="_blank">Twitter</a>
+							<a class="tera" href="/src/tera/">Tera Raid Counters</a>
+							<div class="latest-section mobile">
+								<h4>Latest <a href="/src/#news"></a></h4>
+								<a class="latest-link" href="#"></a>
+								<div class="date"></div>
+							</div>
+						</div>
+					</div>
+					<div class="safe-mouse-space"></div>
+				</div>
+			</div>
+		</div>
+	</header>
+	<div class="main-wrap">
+		<div id="main">
+			<div class="hide mega-warning"><b>Stats for unreleased Mega Evolutions are speculative. Don't invest any resources until they're officially released.</b></div>
+
+<div class="section home white">
+
+	<p class="small">Welcome to PvPoke.com, an open-source tool for Pokemon GO PvP and GO Battle League!</p>
+
+	<a href="/src/battle/" class="button">
+		<span class="btn-content-wrap">
+			<span class="btn-icon btn-icon-battle"></span>
+			<span class="btn-label">
+				<h2>Battle</h2>
+				<p>Simulate battles between two or more Pokemon.</p>
+			</span>
+		</span>
+	</a>
+
+	<a href="/src/rankings/" class="button">
+		<span class="btn-content-wrap">
+			<span class="btn-icon btn-icon-rankings"></span>
+			<span class="btn-label">
+				<h2>Rankings</h2>
+				<p>Explore the rankings, movesets, and counters for the top Pokemon in each league.</p>
+			</span>
+		</span>
+	</a>
+
+	<a href="/src/team-builder/" class="button">
+		<span class="btn-content-wrap">
+			<span class="btn-icon btn-icon-team"></span>
+			<span class="btn-label">
+				<h2>Team Builder</h2>
+				<p>Build your own team and see potential threats and suggestions.</p>
+			</span>
+		</span>
+	</a>
+
+	<a href="/src/train/" class="button">
+		<span class="btn-content-wrap">
+			<span class="btn-icon btn-icon-train"></span>
+			<span class="btn-label">
+				<h2>Train</h2>
+				<p>Play real-time battle simulations against a CPU opponent.</p>
+			</span>
+		</span>
+	</a>
+
+
+	<a href="/src/contribute/" class="button">
+		<span class="btn-content-wrap">
+			<span class="btn-icon btn-icon-heart"></span>
+			<span class="btn-label">
+				<h2>Contribute</h2>
+				<p>Check out the source code on Github or lend your support through Patreon.</p>
+			</span>
+		</span>
+	</a>
+
+	<h3>Pokemon Scarlet &amp; Violet</h3>
+
+	<a name="news"></a>
+
+	<a href="/src/tera/" class="button tera-button">
+		<span class="btn-content-wrap">
+			<span class="btn-icon btn-icon-tera"></span>
+			<span class="btn-label">
+				<h2>Tera Raid Counter Calculator</h2>
+				<p>Take on Tera Raid bosses with this tool to look up Pokemon with the best type matchups.</p>
+			</span>
+		</span>
+	</a>
+
+	
+
+	<!--Update section for updates-->
+	<div class="flex new-header">
+		<h3>What's New</h3>
+		<a href="/src/rss/" target="_blank" class="feed-subscribe">RSS Feed</a>
+	</div>
+
+	<div class="feed-container expanded">
+		<div class="feed"></div>
+
+		<div class="news-item template hide">
+			<h4></h4>
+			<div class="news-content"></div>
+			<div class="news-info">
+				<div class="news-date"></div>
+				<a href="#"><div class="link-text">pvpoke.com</div><div>&rarr;</div></a>
+			</div>
+		</div>
+
+		<button class="feed-expand"></button>
+	</div>
+
+			<span data-ccpa-link="1"></span>
+	
+</div>
+
+
+	<script src="/src/js/GameMaster.js?v=260.968.159"></script>
+	<script src="/src/js/pokemon/Pokemon.js?v=260.968.159"></script>
+	<script src="/src/js/interface/HomeInterface.js?v=260.968.159"></script>
+	<script src="/src/js/interface/ModalWindow.js?v=260.968.159"></script>
+	<script src="/src/js/interface/PokeSearch.js?v=260.968.159"></script>
+	<script src="/src/js/battle/TimelineEvent.js?v=260.968.159"></script>
+	<script src="/src/js/battle/TimelineAction.js?v=260.968.159"></script>
+	<script src="/src/js/battle/Battle.js?v=260.968.159"></script>
+	<script src="/src/js/battle/TeamRanker.js?v=260.968.159"></script>
+	<script src="/src/js/Main.js?v=260.968.159"></script>
+
+
+		</div><!--end #main-->
+	</div><!--end #main-wrap-->
+
+	
+	
+	
+	
+	
+
+	<div id="dev-panel">
+	<a class="wrench" href="#"></a>
+	<div class="dev-panel-container">
+		<h3>Developer Panel</h3>
+
+		<h4>Data</h4>
+
+		<a class="button" href="/src/data/compile.php" target="_blank">Compile gamemaster</a>
+		<a class="button dev-default-ivs" href="#">Generate default IV's</a>
+		<a class="button dev-shadow-stats" href="#">Update Shadow stats</a>
+		<a class="button dev-moveset-csv" href="#">Generate Moveset CSV</a>
+		<!--<a class="button dev-validate-family" href="#">Validate Family IDs</a>-->
+
+		<h4>Quick Links</h4>
+		<a class="button" href="/src/data/overrideEditor.php">Override Editor</a>
+		<a class="button" href="/src/ranker.php">Ranker</a>
+		<a class="button" href="/src/rankersandbox.php">Rankersandbox</a>
+		<a class="button" href="/src/rss/feedEditor.php">RSS Feed</a>
+		<a class="button dev-production-link" href="#">Open page in production</a>
+	</div>
+</div>
+
+<script>
+	// On document ready
+	$(function() {
+
+		var gm = GameMaster.getInstance();
+		var $devPanel = $("#dev-panel").first();
+
+		// Open and close the developer panel
+		$devPanel.find("a.wrench").click(function(e){
+			e.preventDefault();
+			$devPanel.toggleClass("active");
+		});
+
+		// Generate default IV's for Pokemon
+		$devPanel.find("a.dev-default-ivs").click(function(e){
+			e.preventDefault();
+			gm.generateDefaultIVs();
+		});
+
+		// Generate default IV's for Pokemon
+		$devPanel.find("a.dev-shadow-stats").click(function(e){
+			e.preventDefault();
+			gm.updateShadowStatus();
+		});
+
+		// Validate family IDs
+		$devPanel.find("a.dev-validate-family").click(function(e){
+			e.preventDefault();
+			gm.validateFamilyData();
+		});
+
+		// Generate default IV's for Pokemon
+		$devPanel.find("a.dev-moveset-csv").click(function(e){
+			e.preventDefault();
+			gm.generatePokemonMovesetCSV();
+		});
+
+		// Open the current page link on production
+		$devPanel.find("a.dev-production-link").click(function(e){
+			e.preventDefault();
+
+			var pageURL = window.location.href.replace(host, "https://pvpoke.com/");
+
+			window.open(pageURL, '_blank');
+		});
+	});
+
+</script>
+
+	<footer>
+		<p class="copyright">Version <a href="https://github.com/pvpoke/pvpoke/releases">260.968.159</a> &copy; 2023 PvPoke LLC, released under the <a href="https://opensource.org/licenses/MIT" target="_blank">MIT license</a> | <a href="/src/privacy/">Privacy Policy</a></p>
+		<p>Logo and brand colors by <a class="domz-link" href="https://pogodomz.bio.link/" target="_blank">pogoDomz</a></p>
+		<p>Pokémon and Pokémon GO are copyright of The Pokémon Company, Niantic, Inc., and Nintendo. All trademarked images and names are property of their respective owners, and any such material is used on this site for educational purposes only. PvPoke LLC has no affiliation with The Pokémon Company, Niantic, Inc., or Nintendo.</p>
+	</footer>
+
+	<!--Global script-->
+	<script>
+		var menuSlideProtection = false;
+
+		$(".hamburger.mobile").click(function(e){
+			$("header .menu").slideToggle(125);
+
+			menuSlideProtection = true;
+			setTimeout(function(){
+				menuSlideProtection = false;
+			}, 125);
+		});
+
+		// Submenu interaction on desktop and mobile
+		$(".menu .parent-menu").on("mouseenter click", function(e){
+
+			if(screen.width >= 721){
+				$(".submenu").removeClass("active");
+				$(this).find(".submenu").addClass("active");
+
+				/*// Open the submenu on a slight delay so menus don't pop open on collateral mouseovers
+				var $targetParentMenu = $(this).get(0);''
+
+				setTimeout(function(){
+					if($(".parent-menu:hover").get(0) == $targetParentMenu){
+						$(".submenu").removeClass("active");
+						$(".parent-menu:hover").find(".submenu").addClass("active");
+					}
+				}, 125);*/
+			}
+		});
+
+		$(".menu .parent-menu > a").on("click", function(e){
+			if($(e.target).is("span") && screen.width < 721){
+				e.preventDefault();
+				$(this).next(".submenu").toggleClass("active");
+			}
+		});
+
+		$("body").on("mousemove click", function(e){
+			if($(".submenu:hover, .parent-menu:hover").length == 0){
+				$(".submenu").removeClass("active");
+			}
+
+			if(screen.width <= 720 && ! menuSlideProtection){
+				if($("header .menu:hover, .hamburger.mobile:hover").length == 0 && $("header .menu").css("display") == "block"){
+					$("header .menu").slideToggle(125);
+
+					menuSlideProtection = true;
+					setTimeout(function(){
+						menuSlideProtection = false;
+					}, 125);
+				}
+			}
+		});
+
+		$("header .latest-section a").click(function(e){
+			$("header .menu").slideToggle(125);
+		});
+
+		// Auto select link
+
+		$(".share-link input").click(function(e){
+			this.setSelectionRange(0, this.value.length);
+		});
+
+		// Link share copying
+
+		$("body").on("click", ".share-link .copy", function(e){
+			var el = $(e.target).prev()[0];
+			el.focus();
+			el.setSelectionRange(0, el.value.length);
+			document.execCommand("copy");
+		});
+
+		// Toggleable sections
+
+		$("body").on("click", ".toggle", function(e){
+			e.preventDefault();
+
+			$(e.target).closest(".toggle").toggleClass("active");
+		});
+
+		// Service worker handler
+		if ('serviceWorker' in navigator) {
+			console.log("Attempting to register service worker");
+			navigator.serviceWorker.register('service-worker.js')
+			  .then(function(reg){
+				console.log("Service worker registered.");
+			  }).catch(function(err) {
+				console.log("Service worker failed to register:", err)
+			  });
+		}
+
+					// One-time custom group migration from cookies to localstorage
+
+			var jsonToMigrate = [];
+
+			
+			// Migrate custom groups to local storage
+
+			for(var i = 0; i < jsonToMigrate.length; i++){
+				window.localStorage.setItem(jsonToMigrate[i].name, jsonToMigrate[i].data);
+			}
+
+		
+	</script>
+
+</body>
+</html>
