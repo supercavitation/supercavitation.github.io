@@ -1,0 +1,24 @@
+{
+    "name": "pylon",
+    "title": "Pylon Cup",
+	"include": [{
+        "filterType": "type",
+        "values": ["dragon","ground","bug","psychic","flying"]
+    },{
+        "filterType": "id",
+        "values": []
+    }],
+    "exclude": [{
+        "filterType": "tag",
+        "values": ["mega"]
+    }, {
+        "filterType": "type",
+        "values": ["dark","fairy","electric","fire"]
+    }, {
+        "filterType": "id",
+        "values": ["zygarde_complete","giratina_altered","genesect","genesect_burn","genesect_douse","genesect_chill","genesect_shock","zygarde","runerigus","drifblim","pidgeot","steelix","forretress","stunfisk_galarian","scizor","skarmory","celesteela","escavalier","excadrill","durant"]
+    }, {
+        "filterType": "move",
+        "values": []
+    }]
+}

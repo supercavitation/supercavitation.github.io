@@ -1,0 +1,13 @@
+{
+	"name": "pseudoclassic",
+	"title": "Pseudo-Classic Ultra League",
+	"include": [],
+	"exclude": [{
+		"filterType": "tag",
+		"values": ["xl"]
+	},{
+		"filterType": "id",
+		"values": ["corviknight","clefable","dusknoir","lickilicky","drifblim","steelix","gastrodon","registeel","nidoqueen","drapion","weezing_galarian","sandslash_alolan","oranguru","tentacruel","salazzle","malamar","blastoise","dragalge","rapidash","meganium","abomasnow","skuntank","miltank","runerigus","slowbro_galarian","perrserker","palossand","ferrothorn","ninetales","oinkologne_female","ninetales_alolan","primeape","victreebel","talonflame","sandslash","mandibuzz","stunfisk","rapidash_galarian","hawlucha","dachsbun","jellicent","politoed","bombirdier","aromatisse","lokix","cofagrigus","lurantis","clodsire","medicham_mega","piloswine","serperior","grafaiai","stunfisk_galarian","magmar","scolipede","toxicroak","lunatone","golduck","zangoose","amoonguss","forretress","turtonator","bruxish","crawdaunt","magneton","solrock","greedent","togedemaru","umbreon","shiftry","whiscash","slurpuff","whimsicott","gourgeist_average","arctibax","cacturne","bronzong","raichu_alolan","scrafty","ludicolo","heatmor","bellossom","hitmonchan","cradily","spiritomb","pidgeot","hitmontop","mantine","seaking","altaria","qwilfish_hisuian","electrode_hisuian","deoxys_defense","ambipom","exploud","quagsire","falinks","zebstrika","dewgong","dubwool","electabuzz","pelipper","mr_mime","lanturn","claydol","huntail","furfrou","gourgeist_small","manectric","tropius","simisear","floatzel","sableye_mega","camerupt","froslass","noctowl","zygarde_10","banette","skarmory","raichu","chimecho","gothitelle","torkoal","hypno","swalot","wailord","alomomola","oricorio_pom_pom","oricorio_baile","simisage","masquerain","vespiquen","ribombee","galvantula","glalie","tangela","dodrio","oricorio_sensu","weezing","simipour","sawsbuck","kecleon","comfey","gurdurr","probopass","lopunny","carnivine","grumpig","maractus","oricorio_pau","sudowoodo","lairon","cinccino","electrode","garbodor","gorebyss","maushold","meowstic","accelgor","octillery","venomoth","xatu","cherrim_sunny","stantler","vigoroth","meowstic_female","munchlax","araquanid","sunflora","sliggoo","gumshoos","cherrim_overcast"]
+	}],
+	"levelCap": 40
+}

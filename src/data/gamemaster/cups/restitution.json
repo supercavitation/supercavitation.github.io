@@ -1,0 +1,24 @@
+{
+    "name": "restitution",
+    "title": "Restitution Cup",
+    "include": [{
+        "filterType": "type",
+        "values": ["bug","dark","dragon","fire","flying","ghost","normal","poison","psychic","steel","water"]
+    },{
+        "filterType": "id",
+        "values": ["roserade","tangrowth","ludicolo","lombre","amoongus","amoongus_shadow","decidueye","trevenant","pawniard","bisharp","poliwrath","poliwrath_shadow","chesnaught","bellossom","bellossom_shadow"]
+    }],
+    "exclude": [{
+        "filterType": "type",
+        "values": ["electric","fairy","fighting","grass","ground","ice","rock"]
+    },{
+        "filterType": "id",
+        "values": ["furret","lickilicky","toxapex","corsola_galarian","feraligatr","lickitung","dunsparce","registeel","miltank","jellicent","azumarill","grumpig","tinkaton","corviknight","klefki","golisopod","samurott","ursaring","weezing_galarian","dusknoir","melmetal","tinkatuff","wigglytuff","forretress","scizor","tentacruel","bronzong","klang","klinklang","malamar","guzzlord","sableye","sableye_mega","drapion","moltres_galarian","mandibuzz","vullaby","thievul","mightyena","wailmer","bombirdier","greninja","zweilous","hydreigon","obstagoon"]
+    },{
+        "filterType": "tag",
+        "values": []
+    },{
+        "filterType": "move",
+        "values": ["incinerate","charm"]
+    }]
+}

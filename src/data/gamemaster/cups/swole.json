@@ -1,0 +1,24 @@
+{
+    "name": "swole",
+    "title": "Swole Cup",
+    "include": [{
+        "filterType": "type",
+        "values": ["water","ghost","flying","fairy"]
+    },{
+        "filterType": "id",
+        "values": ["porygon2","porygon2_shadow"]
+    }],
+    "exclude": [{
+        "filterType": "type",
+        "values": ["steel","fighting","dark"]
+    },{
+        "filterType": "id",
+        "values": ["feraligatr","giratina_altered","palossand","runerigus","zygarde_complete","talonflame","clefable","lanturn","rotom_wash","tentacruel","relicanth","walrein","weezing_galarian","florges"]
+    },{
+        "filterType": "tag",
+        "values": ["mega"]
+    },{
+        "filterType": "move",
+        "values": ["MUD_SLAP"]
+    }]
+}

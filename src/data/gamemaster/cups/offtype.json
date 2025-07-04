@@ -1,0 +1,24 @@
+{
+    "name": "offtype",
+    "title": "Off-Type Cup",
+	"include": [{
+        "filterType": "type",
+        "values": ["normal","fire","flying","ghost","psychic"]
+    },{
+        "filterType": "id",
+        "values": []
+    }],
+    "exclude": [{
+        "filterType": "tag",
+        "values": ["mega","legendary"]
+    }, {
+        "filterType": "type",
+        "values": ["none","electric","water"]
+    }, {
+        "filterType": "id",
+        "values": ["litleo","pyroar","staravia","noctowl","staraptor","pidgeot","farfetch'd","rufflet","swellow","pidgeotto","braviary","tranquill","toucannon","fearow","unfezant","dodrio","trumbeak","chatot","oranguru","girafarig","wyrdeer","victini","armarouge","delphox","marowak_alolan","skeledirge","ceruledge","chandelure","typhlosion_hisuian","lampent","talonflame","charizard","ho_oh","fletchinder","moltres","oricorio_baile","drifblim","drifloon","oricorio_sensu","swoobat","articuno_galarian","lugia","braviary_hisuian","xatu","sigilyph","oricorio_pau","hoopa","mandibuzz","wigglytuff","diggersby","magcargo","skarmory","corviknight","celesteela","togetic"]
+    }, {
+        "filterType": "move",
+        "values": ["CHARM"]
+    }]
+}

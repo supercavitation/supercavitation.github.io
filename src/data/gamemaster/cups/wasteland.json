@@ -1,0 +1,24 @@
+{
+    "name": "wasteland",
+    "title": "Wasteland Cup",
+    "include": [{
+        "filterType": "type",
+        "values": ["bug","normal","steel","dark","psychic"]
+    },{
+        "filterType": "id",
+        "values": []
+    }],
+    "exclude": [{
+        "filterType": "type",
+        "values": ["ground","electric","fire","dragon","fighting"]
+    },{
+        "filterType": "id",
+        "values": ["registeel","bastiodon","probopass","weezing_galarian","sableye","skarmory","klefki","mandibuzz","vullaby","bombirdier","moltres_galarian","golbat","umbreon","overqwil","empoleon","greninja","jellicent","drapion","sandslash_alolan","toxapex","grimer_alolan","honchkrow","murkrow","stunky","celesteela","tentacruel","raticate_alolan","forretress","grimer","genesect","mawile","malamar","spiritomb","yveltal","genesect_douse","genesect_shock","genesect_chill","genesect_burn","qwilfish_hisuian","lickilicky","miltank","skuntank","dubwool","melmetal","muk_alolan"]
+    },{
+        "filterType": "tag",
+        "values": ["mega","shadow"]
+    },{
+        "filterType": "move",
+        "values": ["counter"]
+    }]
+}

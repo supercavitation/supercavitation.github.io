@@ -1,0 +1,24 @@
+{
+    "name": "boreal2",
+    "title": "Boreal Cup",
+	"include": [{
+        "filterType": "type",
+        "values": ["dragon","ice","water","poison","psychic"]
+    },{
+        "filterType": "id",
+        "values": []
+    }],
+    "exclude": [{
+        "filterType": "tag",
+        "values": ["mega"]
+    }, {
+        "filterType": "type",
+        "values": ["fairy","fighting","steel"]
+    }, {
+        "filterType": "id",
+        "values": ["gastrodon","malamar","araquanid","clodsire","toxapex","sandslash_alolan","lanturn","zweilous","hydreigon","guzzlord","cresselia","drapion","feraligatr","empoleon","skuntank","muk_alolan","grimer_alolan","stunky","qwilfish_hisuian","overqwil","giratina_origin","suicune","zygarde","zygarde_10","amaura","aurorus","arctibax","frigibax","baxcalibur"]
+    }, {
+        "filterType": "move",
+        "values": []
+    }]
+}

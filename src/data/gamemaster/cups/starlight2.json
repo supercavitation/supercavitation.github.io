@@ -1,0 +1,24 @@
+{
+    "name": "starlight2",
+    "title": "Starlight Cup",
+	"include": [{
+        "filterType": "type",
+        "values": ["bug","fairy","ghost","grass","ground"]
+    },{
+        "filterType": "id",
+        "values": ["whimsicott","slurpuff","toucannon"]
+    }],
+    "exclude": [{
+        "filterType": "tag",
+        "values": ["mega","shadow"]
+    }, {
+        "filterType": "type",
+        "values": ["fire","poison","steel","ice"]
+    }, {
+        "filterType": "id",
+        "values": ["diggersby","buzzwole","carbink","sableye","annihilape","giratina_origin","lokix","gogoat","zygarde","corsola_galarian","azumarill","araquanid","krokorok","krookodile","spiritomb","drifblim","drifloon","vivillon","jumpluff","tropius","gligar","gliscor","togetic"]
+    }, {
+        "filterType": "move",
+        "values": ["CHARM"]
+    }]
+}

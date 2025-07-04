@@ -1,0 +1,24 @@
+{
+    "name": "serene2ish",
+    "title": "Serene 2.ish Cup",
+	"include": [{
+        "filterType": "type",
+        "values": ["water","flying","psychic","dragon","normal"]
+    },{
+        "filterType": "id",
+        "values": ["muk","muk_shadow"]
+    }],
+    "exclude": [{
+        "filterType": "tag",
+        "values": []
+    }, {
+        "filterType": "type",
+        "values": ["dark","electric","poison","rock","steel","ghost"]
+    }, {
+        "filterType": "id",
+        "values": ["feraligatr","cresselia","oranguru","rapidash_galarian","mew","lickilicky","miltank","pidgeot","ursaring","poliwrath","greedent","zygarde_complete","zygarde_complete_bf","uxie"]
+    }, {
+        "filterType": "move",
+        "values": []
+    }]
+}

@@ -1,0 +1,24 @@
+{
+    "name": "egpr",
+    "title": "EGPR Cup",
+	"include": [{
+        "filterType": "type",
+        "values": ["electric","rock","ghost","poison"]
+    },{
+        "filterType": "id",
+        "values": []
+    }],
+    "exclude": [{
+        "filterType": "tag",
+        "values": ["mega"]
+    }, {
+        "filterType": "type",
+        "values": ["dark","dragon","ground"]
+    }, {
+        "filterType": "id",
+        "values": []
+    }, {
+        "filterType": "move",
+        "values": []
+    }]
+}

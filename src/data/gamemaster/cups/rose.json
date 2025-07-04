@@ -1,0 +1,24 @@
+{
+    "name": "rose",
+    "title": "Rose Cup",
+	"include": [{
+        "filterType": "type",
+        "values": ["electric","fairy","rock","normal","ice"]
+    },{
+        "filterType": "id",
+        "values": []
+    }],
+    "exclude": [{
+        "filterType": "tag",
+        "values": ["mega","shadow"]
+    }, {
+        "filterType": "type",
+        "values": ["grass","ground","steel"]
+    }, {
+        "filterType": "id",
+        "values": ["lanturn","gardevoir","carbink","azumarill","aromatisse","ninetales_alolan","spritzee","hatterene","sylveon","togekiss","morpeko_full_belly","wigglytuff","obstagoon","vigoroth","magcargo","bellibolt","toxtricity","dedenne"]
+    }, {
+        "filterType": "move",
+        "values": ["MUD_SLAP"]
+    }]
+}

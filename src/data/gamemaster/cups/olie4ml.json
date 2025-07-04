@@ -1,0 +1,29 @@
+{
+    "name": "olie4ml",
+    "title": "Brazilian Tourney ML",
+    "include": [],
+    "exclude": [{
+        "filterType": "id",
+        "values": ["zygarde_complete_bf"]
+    }],
+    "tierRules": {
+        "max": 10,
+        "floor": 0,
+        "tiers": [{
+            "points": 5,
+            "pokemon": ["rayquaza_mega","groudon_primal","kyogre_primal","garchomp_mega","tyranitar_mega","gyarados_mega","swampert_mega","latios_mega","latias_mega","salamence_mega","gardevoir_mega","charizard_mega_y","gengar_mega","zygarde_complete"]
+        }, {
+            "points": 4,
+            "pokemon": ["rhyperior","enamorus_incarnate","palkia_origin","dialga_origin","dragonite","blaziken_mega","scizor_mega","steelix_mega","aggron_mega","meloetta_aria","ho_oh","landorus_therian","heracross_mega","solgaleo","zacian_hero","yveltal","lucario_mega","abomasnow_mega","ampharos_mega","keldeo_ordinary"]
+        }, {
+            "points": 3,
+            "pokemon": ["genesect", "genesect_burn", "genesect_douse", "genesect_chill", "genesect_shock","marshadow","xerneas","necrozma_dawn_wings","necrozma_dusk_mane","slowbro_mega","tapu_bulu","dialga","mewtwo"]
+        }, {
+            "points": 2,
+            "pokemon": ["moltres_galarian","zarude","mega_venusaur","virizion","dragapult","blastoise_mega","charizard_mega_x","giratina_origin","cobalion"]
+        }, {
+            "points": 1,
+            "pokemon": ["reshiram","zekrom","palkia","kyurem","goodra","giratina_altered","mew","heatran","nihilego"]
+        }]
+    }
+}

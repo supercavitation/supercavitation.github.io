@@ -1,0 +1,24 @@
+{
+    "name": "jump",
+    "title": "Jump Cup",
+	"include": [{
+        "filterType": "type",
+        "values": ["water","fighting","ghost","poison"]
+    },{
+        "filterType": "id",
+        "values": []
+    }],
+    "exclude": [{
+        "filterType": "tag",
+        "values": ["mega"]
+    }, {
+        "filterType": "type",
+        "values": ["dark","dragon","fairy","flying","grass","ground"]
+    }, {
+        "filterType": "id",
+        "values": ["feraligatr","dusknoir","bruxish","lanturn","jellicent","golisopod"]
+    }, {
+        "filterType": "move",
+        "values": []
+    }]
+}

@@ -1,0 +1,18 @@
+{
+    "name": "vulnerable",
+    "title": "Vulnerable Cup",
+    "include": [{
+        "filterType": "type",
+        "values": ["grass","water","electric","poison","ice","rock","fighting","psychic","bug","fire","dragon"]
+    },{
+        "filterType": "id",
+        "values": ["altaria_mega","flygon","flygon_shadow"]
+    }],
+    "exclude": [{
+        "filterType": "type",
+        "values": ["dark","fairy","flying","ghost","ground","normal","steel"]
+    },{
+        "filterType": "id",
+        "values": ["cresselia","dragalge","deoxys_defense","poliwrath","tentacruel","kommo_o","goodra","mew","lanturn","lanturnw","aurorus","feraligatr","wobbuffet","cetoddle","medicham","toxapex"]
+    }]
+}

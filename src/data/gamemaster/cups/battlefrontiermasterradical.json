@@ -1,0 +1,37 @@
+{
+    "name": "battlefrontiermasterradical",
+    "title": "Battle Frontier (Master League) (Radical)",
+    "include": [],
+    "exclude": [{
+        "filterType": "id",
+        "values": ["garchomp_mega", "gardevoir_mega", "groudon_primal", "gyarados_mega", "kyogre_primal", "latios_mega", "rayquaza_mega", "salamence_mega", "swampert_mega", "tyranitar_mega"]
+    }],
+    "restrictedPicks": 1,
+    "restrictedPokemon": ["abomasnow_mega", "absol_mega", "aerodactyl_mega", "aggron_mega", "alakazam_mega", "altaria_mega", "ampharos_mega", "banette_mega", "beedrill_mega", "blastoise_mega", "blaziken_mega", "charizard_mega_y", "charizard_mega_x", "diancie_mega", "gallade_mega", "gengar_mega", "glalie_mega", "heracross_mega", "houndoom_mega", "kangaskhan_mega", "latias_mega", "lopunny_mega", "lucario_mega", "manectric_mega", "medicham_mega", "necrozma_dawn_wings", "necrozma_dusk_mane", "pidgeot_mega", "pinsir_mega", "sceptile_mega", "scizor_mega", "slowbro_mega", "steelix_mega", "venusaur_mega", "zygarde_complete"],
+    "tierRules": {
+        "max": 10,
+        "floor": 0,
+        "tiers": [{
+            "points": 7,
+            "pokemon": []
+        }, {
+            "points": 6,
+            "pokemon": ["charizard_mega_y", "gengar_mega","scizor_mega", "zygarde_complete"]
+        }, {
+            "points": 5,
+            "pokemon": ["dialga_origin", "necrozma_dawn_wings", "necrozma_dusk_mane", "solgaleo", "latias_mega", "palkia_origin"]
+        }, {
+            "points": 4,
+            "pokemon": ["zacian_hero", "xerneas", "landorus_therian", "aggron_mega", "dialga", "ho_oh", "heracross_mega", "rhyperior", "yveltal"]
+        }, {
+            "points": 3,
+            "pokemon": ["giratina_origin", "giratina_altered", "kyogre", "mewtwo", "meloetta_aria", "steelix_mega", "palkia"]
+        }, {
+            "points": 2,
+            "pokemon": ["zekrom", "slowbro_mega", "reshiram", "charizard_mega_x", "blastoise_mega", "zarude", "marshadow", "lugia", "groudon", "lucario_mega", "kangaskhan_mega", "moltres_galarian", "heatran", "dragapult", "primarina"]
+        }, {
+            "points": 1,
+            "pokemon": ["genesect", "genesect_burn", "genesect_douse", "genesect_chill", "genesect_shock", "dragonite", "melmetal", "rayquaza", "kyurem", "florges", "mew", "gyarados", "blaziken_mega", "enamorus_incarnate", "tapu_bulu", "avalugg_hisuian", "tapu_lele"]
+        }]
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "name": "palkia",
+    "title": "Palkia Cup",
+    "include": [{
+        "filterType": "type",
+        "values": ["ground","dragon","ghost","water","flying"]
+    },{
+        "filterType": "id",
+        "values": ["porygon2","tapu_fini","kyurem","baxcalibur","arctibax"]
+    }],
+    "exclude": [{
+        "filterType": "type",
+        "values": ["fairy","dark","electric","rock","fighting","ice"]
+    },{
+        "filterType": "id",
+        "values": ["feraligatr","goodra","giratina_altered","zygarde_complete","lanturn","lanturnw","steelix","pidgeot","noctowl","tentacruel"]
+    },{
+        "filterType": "tag",
+        "values": ["mega","shadow"]
+    },{
+        "filterType": "move",
+        "values": ["MUD_SLAP"]
+    }]
+}

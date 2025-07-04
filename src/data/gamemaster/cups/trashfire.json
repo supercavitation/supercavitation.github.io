@@ -1,0 +1,24 @@
+{
+    "name": "trashfire",
+    "title": "Trashfire Cup",
+	"include": [{
+        "filterType": "type",
+        "values": ["flying","fire","poison","normal"]
+    },{
+        "filterType": "id",
+        "values": []
+    }],
+    "exclude": [{
+        "filterType": "tag",
+        "values": ["mega","shadow"]
+    }, {
+        "filterType": "type",
+        "values": ["rock","ground","dragon","water","electric","steel"]
+    }, {
+        "filterType": "id",
+        "values": ["dunsparce","lickilicky","miltank","moltres_galarian","drapion","skuntank","grimer_alolan","muk_alolan","qwilfish_hisuian","overqwil","stunky","mandibuzz","hawlucha","nidorina","munchlax","chansey","vullaby","murkrow","honchkrow","marowak_alolan","pidgeot","furret"]
+    }, {
+        "filterType": "move",
+        "values": ["MUD_SLAP","INCINERATE","CONFUSION"]
+    }]
+}

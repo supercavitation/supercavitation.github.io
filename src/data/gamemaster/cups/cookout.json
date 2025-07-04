@@ -1,0 +1,24 @@
+{
+    "name": "cookout",
+    "title": "Cookout Cup",
+	"include": [{
+        "filterType": "type",
+        "values": ["dark","fairy","ghost","poison","psychic"]
+    },{
+        "filterType": "id",
+        "values": ["krookodile","crustle","golisopod","charizard_mega_x"]
+    }],
+    "exclude": [{
+        "filterType": "tag",
+        "values": []
+    }, {
+        "filterType": "type",
+        "values": ["dragon","ground","water"]
+    }, {
+        "filterType": "id",
+        "values": ["drapion","weezing_galarian","moltres_galarian","skuntank","overqwil","qwilfish_hisuian","muk_alolan","mandibuzz","umbreon","necrozma_dawn_wings_bf","necrozma_dusk_mane_bf"]
+    }, {
+        "filterType": "move",
+        "values": []
+    }]
+}

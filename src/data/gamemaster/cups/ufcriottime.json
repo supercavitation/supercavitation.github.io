@@ -1,0 +1,12 @@
+{
+	"name": "ufcriottime",
+	"title": "UFC Riot Time",
+	"include": [],
+	"exclude": [{
+		"filterType": "tag",
+		"values": []
+	}, {
+		"filterType": "id",
+		"values": ["feraligatr","steelix","moltres_galarian","cresselia","zygarde_complete","talonflame","virizion","gastrodon","zygarde_complete_bf","necrozma_dawn_wings_bf","necrozma_dusk_mane_bf"]
+	}]
+}

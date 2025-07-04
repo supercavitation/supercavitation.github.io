@@ -1,0 +1,144 @@
+{
+    "properties": {
+        "lastUpdated": "October 12, 2024",
+        "totalPerformers": 8526,
+        "totalTeams": 2842
+    },
+    "performers": [{
+        "pokemon": "necrozma_dusk_mane SC+DP\/Stl",
+        "individualScore": 125.52,
+        "teamScore": 547.44,
+        "games": 246
+    }, {
+        "pokemon": "yveltal SkP+DP\/ObW",
+        "individualScore": 128.93,
+        "teamScore": 546.37,
+        "games": 244
+    }, {
+        "pokemon": "rhyperior MSl+BkS\/RW",
+        "individualScore": 133.3,
+        "teamScore": 529.96,
+        "games": 305,
+        "usageTrend": [21.56, 14.04, 22.99, 14.78, 8.67, 7.03, 5.82, 8.99, 7.69, 14.49]
+    }, {
+        "pokemon": "landorus_therian MS+SE\/SSt",
+        "individualScore": 125.21,
+        "teamScore": 527.14,
+        "games": 442,
+        "usageTrend": [10.87, 12.54, 9.93, 16.74, 14.58, 15.21, 14.44, 19.3, 17.31, 8.33]
+    }, {
+        "pokemon": "palkia_origin DB+AT\/SpR",
+        "individualScore": 109.81,
+        "teamScore": 518.92,
+        "games": 683,
+        "usageTrend": [35.51, 28, 20.66, 24.33, 21.96, 27.38, 29.53, 27.63, 23.08, 22.83]
+    }, {
+        "pokemon": "ho_oh I+BrB\/SF",
+        "individualScore": 126,
+        "teamScore": 508.46,
+        "games": 425,
+        "usageTrend": [12.86, 19.59, 18.79, 16.32, 15.31, 19.2, 11.42, 13.16, 12.18, 11.59]
+    }, {
+        "pokemon": "dialga_origin DB+IH\/ROT",
+        "individualScore": 117.53,
+        "teamScore": 496.95,
+        "games": 502,
+        "usageTrend": [11.23, 14.79, 14.47, 12.11, 15.68, 24.71, 21.12, 21.71, 17.63, 17.39]
+    }, {
+        "pokemon": "xerneas Geo+CC\/M",
+        "individualScore": 115.52,
+        "teamScore": 495.6,
+        "games": 540,
+        "usageTrend": [17.03, 22.45, 21.85, 17.45, 24.72, 18.06, 16.81, 16.01, 20.83, 19.2]
+    }, {
+        "pokemon": "zacian_hero Sn+CC\/WC",
+        "individualScore": 121.45,
+        "teamScore": 480.59,
+        "games": 374,
+        "usageTrend": [11.41, 8.86, 9.88, 9.45, 9.59, 15.59, 19.83, 24.34, 14.42, 6.88]
+    }, {
+        "pokemon": "kyogre W+OP\/S",
+        "individualScore": 115.14,
+        "teamScore": 478.87,
+        "games": 244
+    }, {
+        "pokemon": "mewtwo PC+Pst\/SB",
+        "individualScore": 99.17,
+        "teamScore": 470.34,
+        "games": 408,
+        "usageTrend": [15.22, 15.17, 14.7, 12.42, 13.28, 16.54, 14.66, 13.16, 14.1, 19.57]
+    }, {
+        "pokemon": "dialga DB+DM\/IH",
+        "individualScore": 115.09,
+        "teamScore": 462.4,
+        "games": 670,
+        "usageTrend": [26.99, 28.3, 27.24, 22.69, 24.54, 22.43, 21.55, 23.25, 27.56, 25.72]
+    }, {
+        "pokemon": "giratina_origin SC+OW\/SB",
+        "individualScore": 114.72,
+        "teamScore": 462.32,
+        "games": 392,
+        "usageTrend": [15.22, 14.94, 14.98, 12.73, 16.24, 10.65, 14.22, 18.2, 17.63, 13.04]
+    }],
+    "teams": [{
+        "team": "yveltal SkP\/DP\/ObW|landorus_therian MS\/SE\/SSt|xerneas Geo\/CC\/M",
+        "teamScore": 589.67,
+        "games": 27
+    }, {
+        "team": "palkia_origin DB\/AT\/SpR|dialga_origin DB\/IH\/ROT|landorus_therian MS\/SE\/SSt",
+        "teamScore": 585.15,
+        "games": 39
+    }, {
+        "team": "yveltal SkP\/DP\/ObW|necrozma_dusk_mane SC\/DP\/Stl|zacian_hero QA\/PR\/WC",
+        "teamScore": 582.88,
+        "games": 26
+    }, {
+        "team": "zygarde_complete DT\/Cr\/Eq|ho_oh I\/BrB\/SF|necrozma_dusk_mane SC\/DP\/Stl",
+        "teamScore": 580,
+        "games": 27
+    }, {
+        "team": "zacian_hero Sn\/CC\/WC|dialga_origin DB\/IH\/ROT|landorus_therian MS\/SE\/SSt",
+        "teamScore": 550.1,
+        "games": 41
+    }, {
+        "team": "primarina Ch\/DV\/HC|gholdengo A\/FB\/SB|rhyperior MSl\/BkS\/RW",
+        "teamScore": 528.49,
+        "games": 43
+    }, {
+        "team": "palkia_origin DB\/AT\/SpR|landorus_therian MS\/SE\/SSt|solgaleo FS\/IH\/PsF",
+        "teamScore": 524.89,
+        "games": 37
+    }, {
+        "team": "zacian_hero Sn\/CC\/WC|necrozma_dusk_mane SC\/DP\/Stl|palkia_origin DB\/AT\/SpR",
+        "teamScore": 513.19,
+        "games": 21
+    }, {
+        "team": "ho_oh I\/BrB\/SF|dialga DB\/DM\/IH|zacian_hero Sn\/CC\/WC",
+        "teamScore": 501.86,
+        "games": 21
+    }, {
+        "team": "machamp_shadow KC\/CrC\/SE|kyogre W\/S\/T|xerneas Geo\/CC\/M",
+        "teamScore": 497.76,
+        "games": 33
+    }, {
+        "team": "landorus_therian MS\/SE\/SSt|yveltal Sn\/DP\/ObW|zacian_hero Sn\/CC\/WC",
+        "teamScore": 497.09,
+        "games": 32
+    }, {
+        "team": "ho_oh I\/BrB\/SF|xerneas Geo\/CC\/M|zacian_hero Sn\/CC\/WC",
+        "teamScore": 494.35,
+        "games": 26
+    }, {
+        "team": "palkia_origin DB\/AT\/SpR|ho_oh I\/BrB\/SF|landorus_therian MS\/SE\/SSt",
+        "teamScore": 493.93,
+        "games": 30
+    }, {
+        "team": "xerneas Geo\/CC\/M|ho_oh I\/BrB\/SF|lugia DT\/A\/SA",
+        "teamScore": 492.95,
+        "games": 21
+    }, {
+        "team": "ho_oh I\/BrB\/SF|dialga_origin DB\/IH\/ROT|xerneas Geo\/CC\/M",
+        "teamScore": 491.59,
+        "games": 27
+    }]
+}

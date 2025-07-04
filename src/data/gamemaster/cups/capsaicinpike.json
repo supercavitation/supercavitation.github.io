@@ -1,0 +1,12 @@
+{
+	"name": "capsaicinpike",
+	"title": "UFC: Capsaicin Pike",
+	"include": [],
+	"exclude": [{
+		"filterType": "tag",
+		"values": []
+	}, {
+		"filterType": "id",
+		"values": ["lapras","bastiodon","annihilape","clodsire","mandibuzz","azumarill","drapion","jumpluff","forretress","morpeko_full_belly","diggersby","carbink","guzzlord","claydol","cradily","gligar","araquanid","golisopod","dedenne","feraligatr","tinkaton","scizor","furret","corsola_galarian","dewgong","dusclops","wigglytuff","weezing_galarian","blastoise","corviknight","gastrodon","jellicent","moltres_galarian","talonflame","serperior","samurott","typhlosion","primeape","sableye","steelix","pangoro","marowak","malamar","quagsire","grumpig","stunfisk","metang","toxapex","golurk","dachsbun","medicham","dragalge","sandslash_alolan","lickitung","tinkatuff","pachirisu","dusknoir","chansey","bellibolt","drifblim","machamp","aurorus","registeel","togetic","ninetales","tentacruel","wobbuffet","cresselia","umbreon","mew","clefable","marowak_alolan","swampert","hakamo_o","whiscash","skeledirge","dragonair","greninja","runerigus","charjabug","scizor_mega","steelix_mega","sableye_mega","swampert_mega","blastoise_mega"]
+	}]
+}
