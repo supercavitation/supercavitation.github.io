@@ -1,51 +1,5 @@
 [
 	{
-		"title": "Master League (Classic)",
-		"cup": "classic",
-		"cp": 10000,
-		"meta": "master",
-		"showCup": false,
-		"showFormat": true,
-		"showMeta": false,
-		"hideRankings": true
-	},
-	{
-		"title": "ML Overused",
-		"cup": "overused",
-		"cp": 10000,
-		"meta": "overused",
-		"showCup": false,
-		"showFormat": false,
-		"showMeta": true
-	},
-	{
-		"title": "Ultra Premier",
-		"cup": "premier",
-		"cp": 2500,
-		"meta": "premierultra",
-		"showCup": false,
-		"showFormat": false,
-		"showMeta": true
-	},
-	{
-		"title": "Master League (Megas)",
-		"cup": "mega",
-		"cp": 10000,
-		"meta": "mastermega",
-		"showCup": false,
-		"showFormat": false,
-		"showMeta": true
-	},
-	{
-		"title": "P!P Championship Series",
-		"cup": "great",
-		"cp": 1500,
-		"meta": "championshipseries",
-		"showCup": false,
-		"showFormat": false,
-		"showMeta": false
-	},
-	{
         "title": "Battle Frontier (Ultra)",
         "cup": "battlefrontierultra",
         "cp": 2500,
@@ -55,37 +9,10 @@
         "showMeta": true
     },
 	{
-		"title": "Battle Frontier (Master) (Old)",
-		"cup": "battlefrontiermasterold",
-		"cp": 10000,
-		"meta": "battlefrontiermasterold",
-		"showCup": true,
-		"showFormat": true,
-		"showMeta": true
-	},
-	{
-		"title": "Battle Frontier (Master) (Proposed)",
-		"cup": "battlefrontiermasterproposed",
-		"cp": 10000,
-		"meta": "battlefrontiermasterproposed",
-		"showCup": true,
-		"showFormat": true,
-		"showMeta": true
-	},
-	{
 		"title": "Battle Frontier (Master)",
 		"cup": "battlefrontiermaster",
 		"cp": 10000,
 		"meta": "battlefrontiermaster",
-		"showCup": true,
-		"showFormat": true,
-		"showMeta": true
-	},
-	{
-		"title": "UFC: Capsaicin Pike",
-		"cup": "capsaicinpike",
-		"cp": 1500,
-		"meta": "capsaicinpike",
 		"showCup": true,
 		"showFormat": true,
 		"showMeta": true
@@ -95,15 +22,6 @@
         "cup": "aurora",
         "cp": 1500,
         "meta": "aurora",
-        "showCup": true,
-        "showFormat": true,
-        "showMeta": true
-    },
-    {
-        "title": "Wasteland Cup",
-        "cup": "wasteland",
-        "cp": 1500,
-        "meta": "wasteland",
         "showCup": true,
         "showFormat": true,
         "showMeta": true
