@@ -18,10 +18,10 @@
 		"showMeta": true
 	},
     {
-        "title": "Aurora Cup",
-        "cup": "aurora",
+        "title": "Trashfire Cup",
+        "cup": "trashfire",
         "cp": 1500,
-        "meta": "aurora",
+        "meta": "trashfire",
         "showCup": true,
         "showFormat": true,
         "showMeta": true
